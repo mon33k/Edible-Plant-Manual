@@ -1,0 +1,17 @@
+.carousel {
+  padding-top: 10vh;
+}
+
+.carousel-caption {
+  position: relative !important;
+  left: 0% !important;
+}
+
+.carousel-indicators {
+  display: none !important;
+}
+
+.carousel-item-img {
+  width: 29vw;
+  padding: none !important;
+}
