@@ -5,6 +5,16 @@
 .carousel-caption {
   position: relative !important;
   left: 0% !important;
+  color: #091e05;
+}
+
+.carousel-caption > h3 {
+  font-family: "Alegreya Sans SC", sans-serif;
+  color: #091e05;
+}
+
+.carousel-caption > p {
+  font-family: "Noto Sans", sans-serif;
 }
 
 .carousel-indicators {
@@ -14,4 +24,8 @@
 .carousel-item-img {
   width: 29vw;
   padding: none !important;
+}
+
+.offcanvas {
+  background-color: #6a687a !important;
 }

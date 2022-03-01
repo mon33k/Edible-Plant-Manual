@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Alegreya+Sans+SC&family=Noto+Sans&display=swap");
+
 html {
   background-color: #f3efd5;
 }
@@ -9,6 +11,37 @@ html {
   flex-direction: column;
 }
 
-.navbar-brand {
+.navbar-brand,
+.navbar-light {
+  font-family: "Alegreya Sans SC", sans-serif;
   font-size: 3vw !important;
+  color: #091e05 !important;
+}
+
+a:link {
+  font-family: "Alegreya Sans SC", sans-serif;
+  font-size: 2.5vw;
+  text-decoration: none;
+  color: #19323c !important;
+}
+
+a:visited {
+  text-decoration: none;
+  color: #19323c;
+}
+
+a:hover {
+  text-decoration: none;
+  color: white !important;
+}
+
+a:active {
+  text-decoration: none;
+  color: #19323c;
+}
+
+.btn-outline-success {
+  color: white !important;
+  border-color: white !important;
+  fill: #19323c !important;
 }

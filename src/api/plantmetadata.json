@@ -1,0 +1,436 @@
+[
+  {
+    "Nr": 9,
+    "Name": "Alfalfa",
+    "# pics": 50,
+    "Scientific name": "Medicago sativa",
+    "Description": "A flowering plant in the pea family, Alfalfa is nutritious and may be used for a variety of benefits including; treatment for alcoholism and drug dependency.\nIt has deep roots and can grow quite tall making it very resilient. The leaves and young shoots are the only parts that you can eat raw."
+  },
+  {
+    "Nr": 5,
+    "Name": "Asparagus",
+    "# pics": 100,
+    "Scientific name": "Asparagus",
+    "Description": "Asparagus, easily identified by its fleshy green spears which are luscious and delicate, can be eaten raw as opposed to boiled. It is a good source of vitamin C and potassium.\n\nBe mindful of wild Asparagus which has a thinner stalk than those usually found in grocery-stores.\n\nHarvest length of these plants are usually 6-8 inches."
+  },
+  {
+    "Nr": 46,
+    "Name": "Blue Vervain",
+    "# pics": 50,
+    "Scientific name": "Verbena hastata",
+    "Description": "You should refrain from this plant if you are on blood pressure medication or involved with hormonal therapy. It is mostly found in moist conditions with full to partial sun. Places it is commonly found include: moist meadows, riversides and pastures. You can eat its leaves and flowers raw but the seeds must be roasted."
+  },
+  {
+    "Nr": 10,
+    "Name": "Broadleaf Plantain",
+    "# pics": 50,
+    "Scientific name": "Plantago major",
+    "Description": "A species of the plantain family, Broadleaf Plantain is rich in vitamins A, C and K. The leaves are green and oval-shaped with thick-stemmed leaves that meet at a base.\nThe entire plant is edible but it recommended that the leaves be eaten raw while they are young and tender."
+  },
+  {
+    "Nr": 8,
+    "Name": "Bull Thistle",
+    "# pics": 50,
+    "Scientific name": "Cirsium vulgare",
+    "Description": "You can identify this plant by its firm and thorny stem and leaves that end in sharp, extended thorns. This plant looks like one should be skeptical to touch, let alone eat it.\nHowever, the Bull Thistle root as well as its young leaves are edible. The prickles must be removed from the leaves before consumption!"
+  },
+  {
+    "Nr": 45,
+    "Name": "Cattail",
+    "# pics": 50,
+    "Scientific name": "Typha augustifolia",
+    "Description": "Easily recognizable by its brown, cigar-shaped head, you can find the cattail in open wet areas as well as swamps and ditches. Most of the cattail is edible. You can eat the young stems raw, along with the rootstock of the plant after the mud is washed off. The leaves are better off boiled."
+  },
+  {
+    "Nr": 3,
+    "Name": "Chickweed",
+    "# pics": 150,
+    "Scientific name": "Stellaria media",
+    "Description": "This plant, knows scientifically as “Stellaria media”, can be used as a cooling herbal remedy and a safe, nutritious edible.\nChickweeds can be identified by fine hairs located on only one side of its stem in a single band and fine hairs on its sepals. A prime salad ingredient if you were to ask me!"
+  },
+  {
+    "Nr": 6,
+    "Name": "Chicory",
+    "# pics": 50,
+    "Scientific name": "Cichorium Intybus",
+    "Description": "If I were to make a decision solely based on appearance, I wouldn’t hesitate to snack on this beautiful plant!\nThis member of the Dandelion family is a bushy plant with typically bright blue flowers. The leaves of this plant can be eaten raw, along with the flowers but the roots aren’t edible unless they are boiled."
+  },
+  {
+    "Nr": 44,
+    "Name": "Cleavers",
+    "# pics": 50,
+    "Scientific name": "Galium aparine",
+    "Description": "An annual plant with small hooked hairs growing out of their leaves and stems. It is also known as “stickyweed”, “sticky willow”, or “sticky jack”.\nWith nicknames like these, you were right to assume that the plant is of a sticky texture, as they are indeed. You can this plant raw, however, its small hooked hairs will make it much less appetizing."
+  },
+  {
+    "Nr": 49,
+    "Name": "Coltsfoot",
+    "# pics": 50,
+    "Scientific name": "Tussilago farfara",
+    "Description": "Another member of the daisy family, this plant has bright yellow flowers that bloom early in the spring before any leaves are even present.\nBeing sceptical of eating anything with the word “foot” in the title, I would probably hesitate before consuming this plant. However, its flowers can be eaten raw as well as its leaves in small quantities."
+  },
+  {
+    "Nr": 48,
+    "Name": "Common Sow Thistle",
+    "# pics": 100,
+    "Scientific name": "Sonchus oleraceus",
+    "Description": "A plant of the dandelion tribe within the daisy family. These plants have hollow stems, a short taproot and deeply lobed leaves.\nThe flowers are yellow and the seeds are light with white silky hairs.\nThe leaves can be eaten raw and will prove to be good for your body as they contain vitamin C, protein and carbohydrates."
+  },
+  {
+    "Nr": 47,
+    "Name": "Common Yarrow",
+    "# pics": 50,
+    "Scientific name": "Achillea millefolium",
+    "Description": "A flowering plant that is considered by many to be an aggressive weed.\nYou can easily identify them by their small, enduring white flowers that persist throughout the summer.\nYou are more likely to spot this plant along roadsides and in fields. The leaves can be eaten raw, although, they are bitter in taste."
+  },
+  {
+    "Nr": 18,
+    "Name": "Coneflower",
+    "# pics": 50,
+    "Scientific name": "Echinacea",
+    "Description": "This member of the sunflower family is a heat and drought resistance plant. Tough guy isn’t he? It has purple or pink flowers that display a prickly seed cone in the center.\nThe leaves are of a rough texture. Tough guy after all. If you were to come across this plant in a time of need, bear in mind that the leaves and flower petals are edible."
+  },
+  {
+    "Nr": 11,
+    "Name": "Creeping Charlie",
+    "# pics": 100,
+    "Scientific name": "Glechoma hederacea",
+    "Description": "Sounds like a detective’s nickname doesn’t it? Actually, this plant which is an excellent source of vitamin C, has been commended for centuries for its nutritious value.\nIt is covered with very fine hair and its main root is thick. The young leaves of this plant can be consumed raw."
+  },
+  {
+    "Nr": 52,
+    "Name": "Crimson Clover",
+    "# pics": 50,
+    "Scientific name": "Trifolium incarnatum",
+    "Description": "A species of the clover family, the Crimson Clover has leaves and stems that resemble those of the Red Clover.\nIt grows in fields, meadows and lawns and can reach heights between 30 and 50cm. Which parts of this plant can you eat? The seeds and flowers are edible and can be eaten raw."
+  },
+  {
+    "Nr": 4,
+    "Name": "Curly Dock",
+    "# pics": 150,
+    "Scientific name": "Rumex crispus",
+    "Description": "RumexCrispus, commonly referred to as “Curly Dock”, is a safe selection for a snack if you’re in a tight spot with limited to no other edible options.  Although the leaves of this plant can be described as appetizing and a prime source of both vitamin A and vitamin B, it is best to be consumed moderately as it can cause urinary tract irritations."
+  },
+  {
+    "Nr": 55,
+    "Name": "Daisy Fleabane",
+    "# pics": 770,
+    "Scientific name": "Erigeron annuus",
+    "Description": "Another plant with a hairy nature; the Daisy Fleabane is an attractive plant with composite flowers. It has hairy leaves and stems and is best grown in areas exposed to full sun.\nOnly the leaves of this plant are edible, although, you might frown while eating them as its hairy nature might result in an unpleasant taste.Another plant with a hairy nature; the Daisy Fleabane is an attractive plant with composite flowers. It has hairy leaves and stems and is best grown in areas exposed to full sun.\nOnly the leaves of this plant are edible, although, you might frown while eating them as its hairy nature might result in an unpleasant taste.Another plant with a hairy nature; the Daisy Fleabane is an attractive plant with composite flowers. It has hairy leaves and stems and is best grown in areas exposed to full sun.\nOnly the leaves of this plant are edible, although, you might frown while eating them as its hairy nature might result in an unpleasant taste."
+  },
+  {
+    "Nr": 2,
+    "Name": "Dandellion",
+    "# pics": 1056,
+    "Scientific name": "Taraxacum",
+    "Description": "You’re probably thinking “There’s no way I can eat this!”. However, the Taraxacum, or more commonly referred to as “Dandelion”, is, in fact, entirely edible. This means that its flowers, leaves, and even roots,are safe for consumption.\nThe leaves of a Dandelion are generally 5-25cm long or longer and their flower heads are yellow to orange coloured which are open during the daytime, but closed at night.You’re probably thinking “There’s no way I can eat this!”. However, the Taraxacum, or more commonly referred to as “Dandelion”, is, in fact, entirely edible. This means that its flowers, leaves, and even roots,are safe for consumption.\nThe leaves of a Dandelion are generally 5-25cm long or longer and their flower heads are yellow to orange coloured which are open during the daytime, but closed at night.You’re probably thinking “There’s no way I can eat this!”. However, the Taraxacum, or more commonly referred to as “Dandelion”, is, in fact, entirely edible. This means that its flowers, leaves, and even roots,are safe for consumption.\nThe leaves of a Dandelion are generally 5-25cm long or longer and their flower heads are yellow to orange coloured which are open during the daytime, but closed at night."
+  },
+  {
+    "Nr": 54,
+    "Name": "Downy Yellow Violet",
+    "# pics": 50,
+    "Scientific name": "Viola pubescens",
+    "Description": "Divisible into two varieties, the Downy Yellow Violet is a soft and hairy violet that can grow up to 9-12 inches tall.\nThe bright yellow flowers and hairy appearance of this plant make it unique and easy to identify.\nAlthough it is not particularly nutritious, it is safe for you to eat the flowers and leaves of this plant.Divisible into two varieties, the Downy Yellow Violet is a soft and hairy violet that can grow up to 9-12 inches tall.\nThe bright yellow flowers and hairy appearance of this plant make it unique and easy to identify.\nAlthough it is not particularly nutritious, it is safe for you to eat the flowers and leaves of this plant.Divisible into two varieties, the Downy Yellow Violet is a soft and hairy violet that can grow up to 9-12 inches tall.\nThe bright yellow flowers and hairy appearance of this plant make it unique and easy to identify.\nAlthough it is not particularly nutritious, it is safe for you to eat the flowers and leaves of this plant."
+  },
+  {
+    "Nr": 16,
+    "Name": "Elderberry",
+    "# pics": 100,
+    "Scientific name": "Sambucus canadensis",
+    "Description": "Found mostly in temperate to subtropical regions of the world, many species are widely cultivated to be used as ornaments.\nHowever, the Elderberry’s flower, as well as its fruit, is edible, although, the raw fruit does not yield a favourable taste.\nThe fruit, when ripe, is a purplish-black colour. All other parts of this bush are toxic.Found mostly in temperate to subtropical regions of the world, many species are widely cultivated to be used as ornaments.\nHowever, the Elderberry’s flower, as well as its fruit, is edible, although, the raw fruit does not yield a favourable taste.\nThe fruit, when ripe, is a purplish-black colour. All other parts of this bush are toxic.Found mostly in temperate to subtropical regions of the world, many species are widely cultivated to be used as ornaments.\nHowever, the Elderberry’s flower, as well as its fruit, is edible, although, the raw fruit does not yield a favourable taste.\nThe fruit, when ripe, is a purplish-black colour. All other parts of this bush are toxic."
+  },
+  {
+    "Nr": 53,
+    "Name": "Evening Primrose",
+    "# pics": 50,
+    "Scientific name": "Oenothera biennis",
+    "Description": "The Evening Primrose is an herbaceous forb that flowers only late in the day and into the evening, hence its name.\nIt can grow between 30 and 150cm tall and has a bright yellow flower with a mild lemony aroma.\nShould you ever have to eat one, remember that the young shoots can be eaten raw as well as the slightly sweet-tasting flowers.The Evening Primrose is an herbaceous forb that flowers only late in the day and into the evening, hence its name.\nIt can grow between 30 and 150cm tall and has a bright yellow flower with a mild lemony aroma.\nShould you ever have to eat one, remember that the young shoots can be eaten raw as well as the slightly sweet-tasting flowers.The Evening Primrose is an herbaceous forb that flowers only late in the day and into the evening, hence its name.\nIt can grow between 30 and 150cm tall and has a bright yellow flower with a mild lemony aroma.\nShould you ever have to eat one, remember that the young shoots can be eaten raw as well as the slightly sweet-tasting flowers."
+  },
+  {
+    "Nr": 50,
+    "Name": "Fern Leaf Yarrow",
+    "# pics": 50,
+    "Scientific name": "Achillea filipendulina",
+    "Description": "Fern Leaf Yarrow grows as a single, stout stem. It has fern-like leaves that are typically 5 to 20cm long. You’re in luck if you find this plant while in need of a snack because its aerial parts are safe to eat.\nAlthough bitter in taste, the leaves of this plant can be eaten raw, but best to do so in small quantities despite its nutritional value.Fern Leaf Yarrow grows as a single, stout stem. It has fern-like leaves that are typically 5 to 20cm long. You’re in luck if you find this plant while in need of a snack because its aerial parts are safe to eat.\nAlthough bitter in taste, the leaves of this plant can be eaten raw, but best to do so in small quantities despite its nutritional value.Fern Leaf Yarrow grows as a single, stout stem. It has fern-like leaves that are typically 5 to 20cm long. You’re in luck if you find this plant while in need of a snack because its aerial parts are safe to eat.\nAlthough bitter in taste, the leaves of this plant can be eaten raw, but best to do so in small quantities despite its nutritional value."
+  },
+  {
+    "Nr": 17,
+    "Name": "Field Pennycress",
+    "# pics": 100,
+    "Scientific name": "Thlaspi arvense",
+    "Description": "An annual plant with round, flat, winged pods with a deep apical notch.\nThey can grow up to 60cm. Sadly, this plant offers little in terms of food as only its leaves can be eaten raw. They must have some tasty leaves then right?\nUnfortunately, the leaves must be harvested before the plant flowers, and even then they yield a bitter taste!\nCommon names: field pennycress, bastardcress, bastardweed, dish mustard.An annual plant with round, flat, winged pods with a deep apical notch.\nThey can grow up to 60cm. Sadly, this plant offers little in terms of food as only its leaves can be eaten raw. They must have some tasty leaves then right?\nUnfortunately, the leaves must be harvested before the plant flowers, and even then they yield a bitter taste!\nCommon names: field pennycress, bastardcress, bastardweed, dish mustard.An annual plant with round, flat, winged pods with a deep apical notch.\nThey can grow up to 60cm. Sadly, this plant offers little in terms of food as only its leaves can be eaten raw. They must have some tasty leaves then right?\nUnfortunately, the leaves must be harvested before the plant flowers, and even then they yield a bitter taste!\nCommon names: field pennycress, bastardcress, bastardweed, dish mustard."
+  },
+  {
+    "Nr": 1,
+    "Name": "Fireweed",
+    "# pics": 50,
+    "Scientific name": "Chamerion angustifolium",
+    "Description": "Fireweed, or scientifically referred to as Chamerion angustifolium, is an edible plant which is native throughout the Northern Hemisphere.\nIt is commonly referred to as rosebay willowherbin Britain, and in some parts of Canada as great willowherb.\nFireweed can be easily identified by its smooth and erect reddish stem, and unique leaves which have a vein pattern that is circular and does not discontinue at the end of the leaf.\nFireweed, or scientifically referred to as Chamerion angustifolium, is an edible plant which is native throughout the Northern Hemisphere.\nIt is commonly referred to as rosebay willowherbin Britain, and in some parts of Canada as great willowherb.\nFireweed can be easily identified by its smooth and erect reddish stem, and unique leaves which have a vein pattern that is circular and does not discontinue at the end of the leaf.\nFireweed, or scientifically referred to as Chamerion angustifolium, is an edible plant which is native throughout the Northern Hemisphere.\nIt is commonly referred to as rosebay willowherbin Britain, and in some parts of Canada as great willowherb.\nFireweed can be easily identified by its smooth and erect reddish stem, and unique leaves which have a vein pattern that is circular and does not discontinue at the end of the leaf."
+  },
+  {
+    "Nr": 12,
+    "Name": "Forget Me Not",
+    "# pics": 50,
+    "Scientific name": "Myosotis sylvatica",
+    "Description": "Just the name of this herb should be ensuring enough! Scientifically referred to as Myosotis;the Forget-Me-Not flowers are minuscule, tender and usually blue in colour.\nThey are more common during Spring. The flowers are the edible part of the plant and is indeed a safe choice for a snack.Just the name of this herb should be ensuring enough! Scientifically referred to as Myosotis;the Forget-Me-Not flowers are minuscule, tender and usually blue in colour.\nThey are more common during Spring. The flowers are the edible part of the plant and is indeed a safe choice for a snack.Just the name of this herb should be ensuring enough! Scientifically referred to as Myosotis;the Forget-Me-Not flowers are minuscule, tender and usually blue in colour.\nThey are more common during Spring. The flowers are the edible part of the plant and is indeed a safe choice for a snack."
+  },
+  {
+    "Nr": 13,
+    "Name": "Garlic Mustard",
+    "# pics": 100,
+    "Scientific name": "Alliaria petiolata",
+    "Description": "All parts of this plant emit a strong odour. Its flower is only visible from the month of May until June.\nThe Garlic Mustard plant has broad, kidney-shaped leaves, small flowers and slender pods that contain the seeds. It is classified as an invasive species, in North America, where you are more likely to commonly see it.All parts of this plant emit a strong odour. Its flower is only visible from the month of May until June.\nThe Garlic Mustard plant has broad, kidney-shaped leaves, small flowers and slender pods that contain the seeds. It is classified as an invasive species, in North America, where you are more likely to commonly see it.All parts of this plant emit a strong odour. Its flower is only visible from the month of May until June.\nThe Garlic Mustard plant has broad, kidney-shaped leaves, small flowers and slender pods that contain the seeds. It is classified as an invasive species, in North America, where you are more likely to commonly see it."
+  },
+  {
+    "Nr": 15,
+    "Name": "Harebell",
+    "# pics": 50,
+    "Scientific name": "Campanula rotundifolia",
+    "Description": "This beautiful plant is relatively small in size and can be identified by its slender stems, the white sap discharged by the stems, and its sagging blue flowers. \nHarebell’s can range from 30cm to 60cm in height. Your best bet would be to eat the leaves of this plant if needs be. This should be nutritious as the Harebell contains vitamin C.This beautiful plant is relatively small in size and can be identified by its slender stems, the white sap discharged by the stems, and its sagging blue flowers. \nHarebell’s can range from 30cm to 60cm in height. Your best bet would be to eat the leaves of this plant if needs be. This should be nutritious as the Harebell contains vitamin C.This beautiful plant is relatively small in size and can be identified by its slender stems, the white sap discharged by the stems, and its sagging blue flowers. \nHarebell’s can range from 30cm to 60cm in height. Your best bet would be to eat the leaves of this plant if needs be. This should be nutritious as the Harebell contains vitamin C."
+  },
+  {
+    "Nr": 51,
+    "Name": "Henbit",
+    "# pics": 150,
+    "Scientific name": "Lamium amplexicaule",
+    "Description": "You can identify this plant by its soft, finely hairy stems.\nThe leaves have a lobed margin and the flowers are pink to purple in colour. Its name is derived from the observation that chickens are fond of it.\nIt is more likely to grow in light, dry soil as well as cultivated soil. Henbit is very nutritious as it is high in vitamins, iron and fibre.You can identify this plant by its soft, finely hairy stems.\nThe leaves have a lobed margin and the flowers are pink to purple in colour. Its name is derived from the observation that chickens are fond of it.\nIt is more likely to grow in light, dry soil as well as cultivated soil. Henbit is very nutritious as it is high in vitamins, iron and fibre.You can identify this plant by its soft, finely hairy stems.\nThe leaves have a lobed margin and the flowers are pink to purple in colour. Its name is derived from the observation that chickens are fond of it.\nIt is more likely to grow in light, dry soil as well as cultivated soil. Henbit is very nutritious as it is high in vitamins, iron and fibre."
+  },
+  {
+    "Nr": 39,
+    "Name": "Herb Robert",
+    "# pics": 50,
+    "Scientific name": "Geranium robertianum",
+    "Description": "Its many medicinal uses include: toothache and nosebleed remedy, and healing wounds. Freshly picked leaves release a strong odour when crushed, and is said to repel mosquitos if you rub it on your skin. The entire plant is edible and fresh leaves can be used in your salad or to make tea."
+  },
+  {
+    "Nr": 56,
+    "Name": "Japanese Knotweed",
+    "# pics": 50,
+    "Scientific name": "Fallopia japonica",
+    "Description": "A large plant that has been classified as an invasive species by many countries, the Japanese Knotweed has hollow stems and broad oval leaves.\n\nThey have a rapid growth rate with stems reaching a maximum height of 9.8-13ft each growing season.\n\nIt is best to eat the young shoots of this plant-which some say has a lemony flavour.A large plant that has been classified as an invasive species by many countries, the Japanese Knotweed has hollow stems and broad oval leaves.\n\nThey have a rapid growth rate with stems reaching a maximum height of 9.8-13ft each growing season.\n\nIt is best to eat the young shoots of this plant-which some say has a lemony flavour.A large plant that has been classified as an invasive species by many countries, the Japanese Knotweed has hollow stems and broad oval leaves.\n\nThey have a rapid growth rate with stems reaching a maximum height of 9.8-13ft each growing season.\n\nIt is best to eat the young shoots of this plant-which some say has a lemony flavour."
+  },
+  {
+    "Nr": 41,
+    "Name": "Joe Pye Weed",
+    "# pics": 50,
+    "Scientific name": "Eutrochium fistulosum",
+    "Description": "This plant can be described as an herb, a wildflower, and a butterfly plant. You can identify it by its beautiful pink, and sometimes purple flowers at the end of the stems.\nIt can be found in moist woods and along streams. The entire plant, including the root, is edible.This plant can be described as an herb, a wildflower, and a butterfly plant. You can identify it by its beautiful pink, and sometimes purple flowers at the end of the stems.\nIt can be found in moist woods and along streams. The entire plant, including the root, is edible.This plant can be described as an herb, a wildflower, and a butterfly plant. You can identify it by its beautiful pink, and sometimes purple flowers at the end of the stems.\nIt can be found in moist woods and along streams. The entire plant, including the root, is edible."
+  },
+  {
+    "Nr": 42,
+    "Name": "Knapweed",
+    "# pics": 50,
+    "Scientific name": "Centaurea nigra",
+    "Description": "The flowers of these plants are diverse in colour, ranging from deep reds, blues and yellows to any mixture of these. The stems are ribbed and may become hairless as they age. You are more likely to find them in pastures, meadows and woodland edges. Please be mindful that only the flowers are edible."
+  },
+  {
+    "Nr": 19,
+    "Name": "Kudzu",
+    "# pics": 50,
+    "Scientific name": "Pueraria montana",
+    "Description": "A yellow-green vine with large leaves which are shed annually. The speedy growth rate of these vines leave them with the tendency to be invasive and they are considered noxious weeds. Not a plant I would want growing in my back yard, but definitely one I can depend on in a crisis as it is entirely edible."
+  },
+  {
+    "Nr": 58,
+    "Name": "Lambs Quarters",
+    "# pics": 150,
+    "Scientific name": "Chenopodium album",
+    "Description": "This is a dusty looking plant from a distance due to a white coating on its leaves.\nIt is common near rivers, streams, and in gardens with an average height of 1 metre.\nBear in mind that the leaves, shoots, seeds and flowers of this plant are all edible. \nHowever, due to potentially toxic components, it would be best if you consumed these in small quantities, especially if consuming them rawThis is a dusty looking plant from a distance due to a white coating on its leaves.\nIt is common near rivers, streams, and in gardens with an average height of 1 metre.\nBear in mind that the leaves, shoots, seeds and flowers of this plant are all edible. \nHowever, due to potentially toxic components, it would be best if you consumed these in small quantities, especially if consuming them raw"
+  },
+  {
+    "Nr": 21,
+    "Name": "Mallow",
+    "# pics": 50,
+    "Scientific name": "Malva sylvestris",
+    "Description": "One of the earliest plants cited in literature, the Mallow, or scientifically referred to as “Malva”, is a low growing weed with a deep fleshy tap root.\nThe plant is totally edible, its leaves can be used as a substitute for lettuce and are an excellent source of vitamins A and C, calcium and iron.One of the earliest plants cited in literature, the Mallow, or scientifically referred to as “Malva”, is a low growing weed with a deep fleshy tap root.\nThe plant is totally edible, its leaves can be used as a substitute for lettuce and are an excellent source of vitamins A and C, calcium and iron."
+  },
+  {
+    "Nr": 40,
+    "Name": "Mayapple",
+    "# pics": 50,
+    "Scientific name": "Podophyllum peltatum",
+    "Description": "Woodland plants usually growing in colonies derived from a single root. Their stems grow to 30-40cm tall and they have large, deeply cut leaves. All of their parts are poisonous, including the fruit which is covered by the large leaves.\nHowever, once the fruit is ripe, and has turned yellow and soft as opposed to green and firm, you can safely consume it.Woodland plants usually growing in colonies derived from a single root. Their stems grow to 30-40cm tall and they have large, deeply cut leaves. All of their parts are poisonous, including the fruit which is covered by the large leaves.\nHowever, once the fruit is ripe, and has turned yellow and soft as opposed to green and firm, you can safely consume it."
+  },
+  {
+    "Nr": 20,
+    "Name": "Meadowsweet",
+    "# pics": 50,
+    "Scientific name": "Filipendula ulmaria",
+    "Description": "Also referred to as “Queen of the Meadow”, “Lady of the Meadow”, or “Bridewort”, this plant is mostly recognized as an herbal medicine.\nJudging by its nicknames, I would only hope this plant is grown at royal palaces! It is a large clump-forming plant that usually grows relatively tall. The young leaves are edible.Also referred to as “Queen of the Meadow”, “Lady of the Meadow”, or “Bridewort”, this plant is mostly recognized as an herbal medicine.\nJudging by its nicknames, I would only hope this plant is grown at royal palaces! It is a large clump-forming plant that usually grows relatively tall. The young leaves are edible."
+  },
+  {
+    "Nr": 57,
+    "Name": "Milk Thistle",
+    "# pics": 50,
+    "Scientific name": "Silybum Marianum",
+    "Description": "You can identify this thistle by its red to purple flowers and shiny pale green leaves with white veins.\nApart from being a source of food, this plant has medicinal uses such as: increasing appetite, digestion aid, liver cleansing and poisoning treatment.\nThe root, leaves and stems can all be consumed raw.You can identify this thistle by its red to purple flowers and shiny pale green leaves with white veins.\nApart from being a source of food, this plant has medicinal uses such as: increasing appetite, digestion aid, liver cleansing and poisoning treatment.\nThe root, leaves and stems can all be consumed raw."
+  },
+  {
+    "Nr": 25,
+    "Name": "Mullein",
+    "# pics": 50,
+    "Scientific name": "Verbascum thapsus",
+    "Description": "An attractive plant with a tender, velvet-like physique. It is a tall, erect stem with soft leaves and yellow flowers at the top.\nThey are capable of reaching heights of two meters.\nIts leaves and flowers are not a bad choice for a snack, although, you would be doing your taste buds more of a favour if they were used to make tea instead.\nNever, ever use the seeds. They have a neuro-toxin.An attractive plant with a tender, velvet-like physique. It is a tall, erect stem with soft leaves and yellow flowers at the top.\nThey are capable of reaching heights of two meters.\nIts leaves and flowers are not a bad choice for a snack, although, you would be doing your taste buds more of a favour if they were used to make tea instead.\nNever, ever use the seeds. They have a neuro-toxin."
+  },
+  {
+    "Nr": 61,
+    "Name": "New England Aster",
+    "# pics": 50,
+    "Scientific name": "Symphyotrichum novae-angliae",
+    "Description": "Although considered an aggressive weed by some, the New England Aster is praised by others for its extravagant flowers.\nThe flowers are large and rose-purple in colour with many rays. You can find these beauties in open areas, swamps and fields.\nThe root, flowers and leaves are edible and are said to provide health benefits.Although considered an aggressive weed by some, the New England Aster is praised by others for its extravagant flowers.\nThe flowers are large and rose-purple in colour with many rays. You can find these beauties in open areas, swamps and fields.\nThe root, flowers and leaves are edible and are said to provide health benefits."
+  },
+  {
+    "Nr": 27,
+    "Name": "Partridgeberry",
+    "# pics": 50,
+    "Scientific name": "Mitchella repens",
+    "Description": "A low trailing shrub with fuzzy white flowers that grow in pairs that form one berry per pair. The flowers of this plant emit a pleasant smell when blooming. The leaves and berries are edible, although they are not very tasty. The stems are typically light green to light brown."
+  },
+  {
+    "Nr": 22,
+    "Name": "Peppergrass",
+    "# pics": 150,
+    "Scientific name": "Lepidium virginicum",
+    "Description": "Are you wondering if you’ll need a soothing beverage close-by to eat this plant? Not unless u were to eat the young seedpods which can be used as a substitute for black pepper.\nIt is easily identified by its raceme which comes from the plant’s branched stem. It also grows between 15 and 60cm long.Are you wondering if you’ll need a soothing beverage close-by to eat this plant? Not unless u were to eat the young seedpods which can be used as a substitute for black pepper.\nIt is easily identified by its raceme which comes from the plant’s branched stem. It also grows between 15 and 60cm long."
+  },
+  {
+    "Nr": 24,
+    "Name": "Pickerelweed",
+    "# pics": 50,
+    "Scientific name": "Pontederia cordata",
+    "Description": "This plant grows in shallow freshwater including lakes and streams.\nAlthough tastier when roasted, Pickerelweed seeds can be eaten raw and will surely help out a famished hiker. Its leaves are glossy green with fine parallel veins.\nIt can be recognized by its violet-blue flowers that bloom during the summertime.This plant grows in shallow freshwater including lakes and streams.\nAlthough tastier when roasted, Pickerelweed seeds can be eaten raw and will surely help out a famished hiker. Its leaves are glossy green with fine parallel veins.\nIt can be recognized by its violet-blue flowers that bloom during the summertime."
+  },
+  {
+    "Nr": 23,
+    "Name": "Pineapple Weed",
+    "# pics": 50,
+    "Scientific name": "Matricaria discoidea",
+    "Description": "Judging by its name, I would definitely have high hopes for this plant’s taste. Pineapple weed’s flowers and leaves are, in fact, appetizing finger foods for hikers.\nThe plant is commonly mistaken for chamomile. It does resemble chamomile with the exception of the flower petals. It grows up to 30cm tall.Judging by its name, I would definitely have high hopes for this plant’s taste. Pineapple weed’s flowers and leaves are, in fact, appetizing finger foods for hikers.\nThe plant is commonly mistaken for chamomile. It does resemble chamomile with the exception of the flower petals. It grows up to 30cm tall."
+  },
+  {
+    "Nr": 38,
+    "Name": "Prickly Pear Cactus",
+    "# pics": 50,
+    "Scientific name": "Opuntia",
+    "Description": "A real life-saver if you’re in a prickly situation! The Prickly Pear Cactus is a palatable as well as nutritious plant that is typically found in the deserts of North America.\nIts fruit strongly resembles a red or purplish pear. You must be sure to carefully remove the spines on the outer skin before consuming the plant!A real life-saver if you’re in a prickly situation! The Prickly Pear Cactus is a palatable as well as nutritious plant that is typically found in the deserts of North America.\nIts fruit strongly resembles a red or purplish pear. You must be sure to carefully remove the spines on the outer skin before consuming the plant!"
+  },
+  {
+    "Nr": 60,
+    "Name": "Purple Deadnettle",
+    "# pics": 100,
+    "Scientific name": "Lamium purpureum",
+    "Description": "cientifically called “Lamium purpureum”, it translates into English as “the devouring purple monster.” Scary!\nThe plant, in fact, has many medicinal purposes including the use of its leaves for treatment of external wounds or cuts.\nIt has pink flowers that only last about six weeks after they bloom. Only the leaves of this plant are edible.cientifically called “Lamium purpureum”, it translates into English as “the devouring purple monster.” Scary!\nThe plant, in fact, has many medicinal purposes including the use of its leaves for treatment of external wounds or cuts.\nIt has pink flowers that only last about six weeks after they bloom. Only the leaves of this plant are edible."
+  },
+  {
+    "Nr": 59,
+    "Name": "Queen Annes Lace",
+    "# pics": 50,
+    "Scientific name": "Daucus carota",
+    "Description": "Interesting name for a flower right? The legend tells of Queen Anne pricking her finger and a drop of blood falling on a lace that she was sewing.\nSimilarly, this plant’s flower resembles a lace, and the single purple dot that is often seen in the middle of the flower resembles the drop of blood!\nThe leaves and roots are edible but it is advised to use first-year plants. Do not confuse this with Poison hemlock aka. Conium maculatum though!Interesting name for a flower right? The legend tells of Queen Anne pricking her finger and a drop of blood falling on a lace that she was sewing.\nSimilarly, this plant’s flower resembles a lace, and the single purple dot that is often seen in the middle of the flower resembles the drop of blood!\nThe leaves and roots are edible but it is advised to use first-year plants. Do not confuse this with Poison hemlock aka. Conium maculatum though!"
+  },
+  {
+    "Nr": 26,
+    "Name": "Red Clover",
+    "# pics": 50,
+    "Scientific name": "Trifolium pratense",
+    "Description": "Along with its many medicinal uses, Red Clovers are considered to be the tastiest of all clovers and will surely make a good find. It has a reddish flower head made up of different tubular-shaped flowers. The leaves are edible but the flower is what I would look forward to consuming!"
+  },
+  {
+    "Nr": 28,
+    "Name": "Sheep Sorrel",
+    "# pics": 50,
+    "Scientific name": "Rumex acetosella",
+    "Description": "Commonly found in acidic, sandy soils and grasslands, this plant typically grows in areas where blueberries can be found. Perhaps in an attempt to get the blueberries’ attention?\nSheep Sorrel leaves can be eaten raw and have a pleasant lemony or tangy flavour. Be sure to look out for its reddish upright stems."
+  },
+  {
+    "Nr": 29,
+    "Name": "Shepherds Purse",
+    "# pics": 100,
+    "Scientific name": "Capsella bursa-pastoris",
+    "Description": "This interestingly-named plant, unlike most flowering plants, flowers almost all year round. It was given its name due to its triangular flat fruits which are purse-like. The leaves of this plant can be eaten raw, which is the healthier option. It is a common weed of cultivated soil in many countries."
+  },
+  {
+    "Nr": 31,
+    "Name": "Spring Beauty",
+    "# pics": 50,
+    "Scientific name": "Claytonia virginica",
+    "Description": "Along with your significant other in the months of March to May, Claytonia carolinianais also called “Spring Beauty”.\nIt can be identified by its small flowers produced in the spring which have pink petals, or white petals with darker pink veins.\nThe root, leaves and stem of the Spring Beauty can be eaten raw."
+  },
+  {
+    "Nr": 30,
+    "Name": "Sunflower",
+    "# pics": 735,
+    "Scientific name": "Helianthus annuss",
+    "Description": "Scientifically referred to as “Helianthus annuss”, I’m sure a Sunflower would be a happy sight for a hungry hiker.\nThey grow an average height of one to two meters tall.\nWild Sunflower seeds are very small and can be consumed raw. The wild seeds are much smaller than those used for commercial production."
+  },
+  {
+    "Nr": 62,
+    "Name": "Supplejack Vine",
+    "# pics": 50,
+    "Scientific name": "Ripogonum scandens",
+    "Description": "A vine found only in New Zealand, Australia and New Guinea, Supplejack Vine produces leafy stems that bear flower and fruits once it reaches sunlight.\nIt can grow extremely long and is likely to grow towards the sunlight through the forest.\nThe berries it produces, once ripe, can be eaten either raw or cooked as well as its young shoots and leaves. Not at all a bad find for a wandering hiker!"
+  },
+  {
+    "Nr": 32,
+    "Name": "Tea Plant",
+    "# pics": 50,
+    "Scientific name": "Camellia sinensis",
+    "Description": "The source of some of the numerous teas we enjoy, the Tea Plant has a life span of 30 to 50 years. Its flower blossoms are white and fragrant, have both male and female organs, and are pollinated by bees. The leaves and flowers can be eaten raw. A very useful plant indeed."
+  },
+  {
+    "Nr": 34,
+    "Name": "Teasel",
+    "# pics": 50,
+    "Scientific name": "Dipsacus fullonum",
+    "Description": "Originally brought to North America from Europe, an average Teasel plant produces over 3000 seeds that birds feed on.\nIt is a self-fertile plant noted for attracting wildlife. The flowers bloom by first forming in a ring around the plant’s head.\nA Teasel’s young leaves are edible after avoiding its spiny, stout hairs."
+  },
+  {
+    "Nr": 33,
+    "Name": "Toothwort",
+    "# pics": 100,
+    "Scientific name": "Cardamine diphylla",
+    "Description": "An unappetizing name, to say the least right? This plant is a member of the mustard family which grows best in moist soils preferably in wooded areas.\nIts flowers have four petals which are white to pinkish or light purple. The leaves and roots of this plant are totally edible."
+  },
+  {
+    "Nr": 37,
+    "Name": "Vervain Mallow",
+    "# pics": 50,
+    "Scientific name": "Malva alcea",
+    "Description": "This plant prefers sunny or partially shaded areas and mostly grows in thickets and in waste areas. They can grow from 50cm to over 1 metre tall. Their flowerhave five white to pink petals with five green sepals. The flowers, leaves, and seed are edible, although, it is recommended that only the leaves be eaten raw."
+  },
+  {
+    "Nr": 36,
+    "Name": "Wild Bee Balm",
+    "# pics": 50,
+    "Scientific name": "Monarda fistulosa",
+    "Description": "Identified by its thick lavender flowers, this plant prefers dry and sunny locations to avoid developing mildew. Its fragrant flowers begin to bloom in the centre of the flower head and can be pink in colour depending on its location. The leaves of the Wild Bee Balm are edible and make a safe trail snack for you."
+  },
+  {
+    "Nr": 14,
+    "Name": "Wild Black Cherry",
+    "# pics": 50,
+    "Scientific name": "Prunus serotina",
+    "Description": "I bet your taste buds are smiling at the thought of this! PrunusSerotina, more commonly referred to as wild black cherry, is an edible plant that is wise to be consumed in a very small proportion.\nThis is due to the fact that their seeds contain compounds that can be converted into cyanide."
+  },
+  {
+    "Nr": 35,
+    "Name": "Wild Grape Vine",
+    "# pics": 100,
+    "Scientific name": "Vitis riparia",
+    "Description": "A vining plant with no solid, upright trunk. They grow thicker and higher than most other native vines. A great choice for a trail snack, although, it tastes better after the first frost.\nGrape vine leaves are green and lobed with long, pointed tips and a smooth surface. Definitely not a bad find for a hiker."
+  },
+  {
+    "Nr": 43,
+    "Name": "Wild Leek",
+    "# pics": 100,
+    "Scientific name": "Allium tricoccum",
+    "Description": "A North American species of wild onion that grow deep in the woods. It is bulb-forming with broad, smooth, light green leaves.\nBe sure to look out for the deep purple or burgundy tints on the lower stem. You can also identify them by their smell, which is similar to that of an onion.\nThe leaves and bulbs are edible but it is best if you consume them in small quantities."
+  },
+  {
+    "Nr": 7,
+    "Name": "Wood Sorrel",
+    "# pics": 50,
+    "Scientific name": "Oxalis acetosella",
+    "Description": "This medium-sized plant is an effective thirst quencher and exhilarating snack. A perfect find for a food-deprived hiker right?\nThe flowers can range from green to bright yellow in colour, and the leaves are a great source of vitamin C.\nThe leaves, flowers and other parts have a flavour that is slightly sour which may be comparable to lemons."
+  }
+]
