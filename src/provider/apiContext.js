@@ -2,11 +2,15 @@ import { createContext } from "react";
 
 import plantMetadata from "../api/plantmetadata.json";
 
-const ApiContext = createContext({ plantInfo: plantMetadata });
+export const ApiContext = createContext(plantMetadata);
 
-export function ApiProvider({ children }) {
-  console.log("ApiContext", ApiContext);
+export const ApiProvider = (props) => {
+  // props here for the value that will change
+  const { plantdata, filteredplantdata } = this.props;
+
   return (
-    <ApiContext.Provider value={plantMetadata}>{children}</ApiContext.Provider>
+    <ApiContext.Provider value={plantdata}>
+      {props.children}
+    </ApiContext.Provider>
   );
-}
+};

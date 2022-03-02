@@ -1,3 +1,4 @@
+import React, { useContext } from "react";
 import {
   Container,
   Row,
@@ -17,15 +18,18 @@ import Search from "./Search";
 import Index from "./IndexOfPlants";
 import Favorites from "./Favorites";
 
-import { ApiProvider } from "../provider/apiContext";
+import { ApiProvider, ApiContext } from "../provider/apiContext";
+import { ThemeProvider } from "../provider/themeContext";
 
 function App() {
+  const value = useContext(ApiContext);
+  console.log("value", value);
   return (
     <ApiProvider>
       <Container className="App" fluid>
         <Navbar bg="#f3efd5" expand={false}>
           <Container fluid>
-            <Navbar.Brand href="/">Edible Plant Manual</Navbar.Brand>
+            <Navbar.Brand href="/">{value}</Navbar.Brand>
             <Navbar.Toggle aria-controls="offcanvasNavbar" />
             <Navbar.Offcanvas
               id="offcanvasNavbar"
