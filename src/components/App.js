@@ -17,19 +17,24 @@ import { Routes, Route, Link } from "react-router-dom";
 import Search from "./Search";
 import Index from "./IndexOfPlants";
 import Favorites from "./Favorites";
+import PlantPage from "./PlantPage";
 
 import { ApiProvider, ApiContext } from "../provider/apiContext";
 import { ThemeProvider } from "../provider/themeContext";
 
 function App() {
-  const value = useContext(ApiContext);
-  console.log("value", value);
+  // const plantList = useContext(ApiContext);
+
+  function selectPlant(plant) {
+    //logic to get function in context that updates or changes plant list
+  }
+
   return (
     <ApiProvider>
       <Container className="App" fluid>
         <Navbar bg="#f3efd5" expand={false}>
           <Container fluid>
-            <Navbar.Brand href="/">{value}</Navbar.Brand>
+            <Navbar.Brand href="/">Edible Plant Manual</Navbar.Brand>
             <Navbar.Toggle aria-controls="offcanvasNavbar" />
             <Navbar.Offcanvas
               id="offcanvasNavbar"
@@ -43,18 +48,21 @@ function App() {
               </Offcanvas.Header>
               <Offcanvas.Body>
                 <Nav className="justify-content-end flex-grow-1 pe-3">
-                  <Nav.Link>
-                    <Link to="/">Home</Link>
-                  </Nav.Link>
-                  <Nav.Link>
-                    <Link to="/index">Index</Link>
-                  </Nav.Link>
-                  <Nav.Link>
-                    <Link to="/search">Search</Link>
-                  </Nav.Link>
-                  <Nav.Link>
-                    <Link to="/favorites">Favorites</Link>
-                  </Nav.Link>
+                  <Link className="nav-link" to="/">
+                    Home
+                  </Link>
+
+                  <Link className="nav-link" to="/index">
+                    Index
+                  </Link>
+
+                  <Link className="nav-link" to="/search">
+                    Search
+                  </Link>
+
+                  <Link className="nav-link" to="/favorites">
+                    Favorites
+                  </Link>
 
                   <NavDropdown title="Index" id="offcanvasNavbarDropdown">
                     <NavDropdown.Item href="#action3">
@@ -87,6 +95,7 @@ function App() {
           <Route path="/index" element={<Index />} />
           <Route path="/search" element={<Search />} />
           <Route path="/favorites" element={<Favorites />} />
+          <Route path="/index/:plantName" element={<PlantPage />} />
         </Routes>
       </Container>
     </ApiProvider>
