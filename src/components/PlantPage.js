@@ -1,31 +1,33 @@
 import React from "react";
 import { useLocation } from "react-router-dom";
 import { Container, Row, Col } from "react-bootstrap";
+const fs = require("fs");
 
 const PlantPage = () => {
   const location = useLocation();
   const { from } = location.state;
-  const imgList = Array.from(Array(from["# pics"] + 1).keys());
+  const imgList = Array.from(Array(from["# pics"] + 1).keys()).slice(1);
+  console.log(from);
 
-  imgList.forEach((num) => {
-    console.log("num", `../api/dataset/${from.Name}/${from.Name + num}`);
-    // <img src={`../api/dataset/${from.Name}/${from.Name + num}`}></img>
+  const getSpecificImgPath = imgList.map((num) => {
+    let filePath = require(`../api/dataset/${from.Name}/${
+      num !== 1 ? from.Name + num + ".jpg" : from.Name + ".jpg"
+    }`);
+
+    if (from.Name)
+      return <img src={filePath} width="100vw" key={Math.random(num)} />;
   });
 
   return (
     <>
       <Container fluid="md">
         <Row>
+          <Col>{getSpecificImgPath}</Col>
           <Col>
-            {imgList.forEach((num) => (
-              <img
-                src={`../api/dataset/Alfalfa/Alfalfa2.jpg`}
-                width="500"
-                height="600"
-              />
-            ))}
+            <h2>{from.Name}</h2>
+            <h4>{from["Scientific name"]}</h4>
+            <p>{from.Description}</p>
           </Col>
-          <Col>{from.Description}</Col>
         </Row>
       </Container>
     </>

@@ -1,5 +1,5 @@
 import React, { useContext } from "react";
-import "bootstrap/dist/css/bootstrap.min.css";
+// import "bootstrap/dist/css/bootstrap.min.css";
 import { Link } from "react-router-dom";
 import { ApiContext } from "../provider/apiContext";
 
