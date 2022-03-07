@@ -65,19 +65,6 @@ function App() {
                     <Link className="nav-link" to="/favorites">
                       Favorites
                     </Link>
-
-                    <NavDropdown title="Index" id="offcanvasNavbarDropdown">
-                      <NavDropdown.Item href="#action3">
-                        <Link to="/index">Index Component</Link>
-                      </NavDropdown.Item>
-                      <NavDropdown.Item href="#action4">
-                        Another action
-                      </NavDropdown.Item>
-                      <NavDropdown.Divider />
-                      <NavDropdown.Item href="#action5">
-                        Something else here
-                      </NavDropdown.Item>
-                    </NavDropdown>
                   </Nav>
                   <Form className="d-flex">
                     <FormControl
