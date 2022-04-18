@@ -11,8 +11,6 @@ const PlantPage = () => {
   const { from } = location.state;
   const plantPathArr = plantImagePaths.getPlantImgs(from);
 
-  console.log("plantPathArr", plantPathArr);
-
   return (
     <>
       <Container fluid="md">

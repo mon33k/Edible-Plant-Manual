@@ -1,6 +1,6 @@
 import { createContext } from "react";
 
-import plantMetadata from "../api/plantmetadata.json";
+import plantMetadata from "./plantmetadata.json";
 
 export const ApiContext = createContext();
 
