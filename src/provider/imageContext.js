@@ -16,16 +16,7 @@ export const ImageProvider = ({ children }) => {
     });
     console.log("plant paths ==> ", imgPathList);
 
-    return imgPathList.map((eachPlant, i) => {
-      return (
-        <Image
-          rounded="true"
-          src={eachPlant}
-          key={Math.random(i)}
-          fluid="true"
-        />
-      );
-    });
+    return imgPathList;
   };
 
   return (
